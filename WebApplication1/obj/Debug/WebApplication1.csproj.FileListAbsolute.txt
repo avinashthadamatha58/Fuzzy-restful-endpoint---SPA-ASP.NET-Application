@@ -1,0 +1,17 @@
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.xml
+C:\Users\lenovo\source\repos\WebApplication1\WebApplication1\bin\System.Web.Http.WebHost.xml
